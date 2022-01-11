@@ -3,7 +3,7 @@
 <p>
 
 <h1 align="center">
-    Zeldris Robot
+    Zeldris Robot🎛️
 </h1>
 
 <p align="center">
